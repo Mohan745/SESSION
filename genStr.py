@@ -154,7 +154,7 @@ Must Join Channel for Bot Updates !!
     reply_markup = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton('Developer', url='HTTPS://T.ME/HACKER_ZD)
+                InlineKeyboardButton('Developer', url='HTTPS://T.ME/HACKER_ZD,)
             ],
             [
                 InlineKeyboardButton('Contributor', url='@Alone_loverboy'),
