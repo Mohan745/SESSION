@@ -155,7 +155,7 @@ Must Join Channel for Bot Updates !!
         [
             
             [
-                InlineKeyboardButton('Contributor', url='@Alone_loverboy'),
+                InlineKeyboardButton('Contributor', url='https://t.me/Alone_loverboy'),
             ]
         ]
     )
