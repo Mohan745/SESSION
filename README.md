@@ -1,6 +1,6 @@
 # RikudoPyroStr
 
-[![deploy](https://telegra.ph/file/4f3dee3a87e98d9b6a901.jpg)](https://heroku.com/deploy?template=https://github.com/AvikaTrivedi/RikudoPyroStr)
+[![deploy](https://telegra.ph/file/252ad82bd76e7887fd2dd.jpg)](https://heroku.com/deploy?template=https://github.com/AvikaTrivedi/RikudoPyroStr)
 
 👆👆
 YOU Can click on above Image to deploy 
@@ -28,7 +28,7 @@ Generate Pyrogram String Session Using this bot.
 
 
 #### Developers
-- [Avika](https://t.me/avika_5555)
-- [satyanand](https://t.me/satyanandatripathi)
+- [MOHAN](https://t.me/hacker_zd)
+- [ALONE](https://t.me/alone_loverboy)
 
 Love u guys😉💗
