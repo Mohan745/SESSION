@@ -151,14 +151,7 @@ You have to put **OTP** in `1 2 3 4 5` this format. __(Space between each number
 **NOTE:** If bot not Sending OTP to your Phone Number than send /restart Command and again send /start to Start your Process. 
 Must Join Channel for Bot Updates !!
 """
-    reply_markup = InlineKeyboardMarkup(
-        [
-            
-            [
-                InlineKeyboardButton('Contributor', url='https://t.me/Alone_loverboy'),
-            ]
-        ]
-    )
+     
     await msg.reply(out, reply_markup=reply_markup)
 
 
