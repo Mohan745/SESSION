@@ -1,6 +1,6 @@
 # alone_loverboy
 # hacker_zd
-[![deploy](https://telegra.ph/file/252ad82bd76e7887fd2dd.jpg)](https://heroku.com/deploy?template=https://github.com/AvikaTrivedi/RikudoPyroStr)
+[![deploy](https://telegra.ph/file/252ad82bd76e7887fd2dd.jpg)](soon)
 
 👆👆
 YOU Can click on above Image to deploy 
@@ -9,7 +9,7 @@ ________
 Generate Pyrogram String Session Using this bot.
 
 ## Bot Link:
-<a href="https://t.me/pyrogram_string_genrobot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
+<a href="soon"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 
 ## Configs:
 - API_HASH
