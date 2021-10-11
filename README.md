@@ -1,6 +1,7 @@
 # alone_loverboy
 # hacker_zd
-[![deploy](https://telegra.ph/file/252ad82bd76e7887fd2dd.jpg)](https://heroku.com/deploy?template=https://github.com/Mohan745/SESSION)
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 👆👆
 YOU Can click on above Image to deploy 
